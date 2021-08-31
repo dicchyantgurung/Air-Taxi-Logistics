@@ -123,7 +123,7 @@ For an 18 hour operating period, we can expect an hourly demand of more than 250
 - Each of these routes are at least 4 times faster than conventional travel.
 
 By looking at just the Fastrak data, we are able to identify the most optimal locations, routes that covers the most distance and forecast an average demand of 50,000 travellers 
-everyday. Regardless of what air taxi we choose or follow a certain pricing plan, it is pretty evident that there will be more than enough demand for this service. The travel being more than 4-5 times faster will also make this service invaluable at all price ranges. 
+everyday. Regardless of what air taxi we choose or follow a certain pricing plan, it is pretty evident that there will be more than enough demand for this service. The travel being more than 3-4 times faster will also make this service invaluable at all price ranges. 
 This is a great opportunity and investors should definitely take part to make this a success.
 
 
