@@ -1,3 +1,22 @@
 # Predicting demand and location for Air-Taxi services
 
-![Title](https://github.com/dicchyant84/NLP-of-tweet-sentiment-for-Google-and-Apple/blob/main/Images/Title.jpg)
+![Title](https://github.com/dicchyant84/Air-Taxi-Logistics/blob/main/Images/title.jpg)
+
+### Overview
+
+Science fiction turned science fact, air taxis are closer than we think. With the heavy adoption of electric vehicles by the automotive industry, and advancements in battery technology, companies are finally able to produce electronic VTOL aircrafts that can be used for daily air travel.
+E-VTOLs create a whole new form of transportation, allowing for faster air-travel in-between cities, towns and major service locations. The lower operating cost, lower noise and zero-carbon emission of the eVTOLs will allow service to be more frequent, available in many locations across the city and finally establish itself as a major form of transportation in the times to come. 
+
+### Understanding the Problem
+
+1. The demand for road travel exceeds the supply given how fast urban populations are growing. The capital intensive and time consuming nature of new roadway/public transit, 
+   makes it almost impossible for most cities to meet the growing demand for travel.
+2. According to a recent study, U.S. drivers lost an average of 99 hours in traffic equivalent to $1,377 in 2019 due to traffic congestions. ($88 billion in national average)
+3. Move to a greener future. 
+
+
+### Project Objectives:
+- Explore FasTrak data to analyze traffic movement and density in the Bay Area.
+- Find traffic hotspots to serve as air-taxi hubs.
+- Analyze transportation needs at each location.
+- Recommend optimal location, service routes and hours of operations for air-taxi service.
