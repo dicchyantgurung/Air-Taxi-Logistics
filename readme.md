@@ -1,4 +1,4 @@
-# Predicting demand and location for Air-Taxi operations
+# Predicting Demand and Location for Air-Taxi Operations
 
 ![Title](https://github.com/dicchyant84/Air-Taxi-Logistics/blob/main/Images/eVTOL-Los-Angeles.jpg)
 
