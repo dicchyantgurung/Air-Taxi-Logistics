@@ -10,10 +10,10 @@ E-VTOLs create a whole new form of transportation, allowing for faster air-trave
 
 ### Understanding the Problem
 
-1. The demand for road travel exceeds the supply given how fast urban populations are growing. The capital intensive and time consuming nature of new roadway/public transit, 
+1. The **demand for road travel exceeds the supply** given how fast urban populations are growing. The capital intensive and time consuming nature of new roadway/public transit, 
    makes it almost impossible for most cities to meet the growing demand for travel.
-2. According to a recent study, U.S. drivers **lost an average of 99 hours** in traffic equivalent to **$1,377** in 2019 due to traffic congestions. ($88 billion in national average)
-3. Move to a greener future. 
+2. According to a recent study, **U.S. drivers lost an average of 99 hours** in traffic equivalent to **$1,377** in 2019 due to traffic congestions. ($88 billion in national average)
+3. Move to a **greener** future. 
 
 
 ### Project Objectives:
