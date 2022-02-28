@@ -116,11 +116,11 @@ For an 18 hour operating period, we can expect an hourly demand of more than 250
 
 ### Conclusion/Recommendation
 
-- On an average there seems to be an hourly demand of above 2500 customers at all locations. This only represents 10% of the total flow of traffic daily.
-- Considering most of the travel is happening during morning and evening rush hours, an operating schedule between the hours of 6 AM till 12 AM would benefit the most travellers.
-- In terms of service locations, we identified a total of 10 locations that would be optimal to cover all movements across the area.
-- Considering all combination of travel between these locations, and keeping only the routes that take at least 8 minutes of flight time, we arrive at 15 different routes that will benefit the most from this service.
-- Each of these routes are at least 4 times faster than conventional travel.
+- On an average there seems to be an hourly demand of above **2500** customers at all locations. This only represents 10% of the total flow of traffic daily.
+- Considering most of the travel is happening during morning and evening rush hours, an operating schedule between the hours of **6 AM till 12 AM** would benefit the most travellers.
+- In terms of service locations, we identified a total of **10 locations** that would be optimal to cover all movements across the area.
+- Considering all combination of travel between these locations, and keeping only the routes that take at least **8 minutes** of flight time, we arrive at **15 different routes** that will benefit the most from this service.
+- Each of these routes are at least **4 times faster** than conventional travel.
 
 By looking at just the Fastrak data, we are able to identify the most optimal locations, routes that covers the most distance and forecast an average demand of 50,000 travellers 
 everyday. Regardless of what air taxi we choose or follow a certain pricing plan, it is pretty evident that there will be more than enough demand for this service. The travel being more than 3-4 times faster will also make this service invaluable at all price ranges. 
