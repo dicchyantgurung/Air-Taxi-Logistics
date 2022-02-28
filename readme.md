@@ -116,7 +116,7 @@ For an 18 hour operating period, we can expect an hourly demand of more than 250
 
 ### Conclusion/Recommendation
 
-- On an average there seems to be an hourly demand of above **2500** customers at all locations. This only represents 10% of the total flow of traffic daily.
+- On an average there seems to be an hourly demand of above **2500** customers at all locations. This only represents **10%** of the total flow of traffic daily.
 - Considering most of the travel is happening during morning and evening rush hours, an operating schedule between the hours of **6 AM till 12 AM** would benefit the most travellers.
 - In terms of service locations, we identified a total of **10 locations** that would be optimal to cover all movements across the area.
 - Considering all combination of travel between these locations, and keeping only the routes that take at least **8 minutes** of flight time, we arrive at **15 different routes** that will benefit the most from this service.
